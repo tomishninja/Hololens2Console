@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DAAoM0FByAZXrDMoN5Ni7V3o3b4T6Ml8eHEQGHdxr/XtbocAsWZGr+5W0kdWBmD5jF9aWVLsYdfbBpY4t5hMSw==",
+  "success": true,
+  "projectFilePath": "E:\\UnityProjects\\HololensConsoleApp\\Assets\\HololensConsoleApp.Dependencies.msb4u.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windows.mixedreality.dotnetwinrt\\0.5.1049\\microsoft.windows.mixedreality.dotnetwinrt.0.5.1049.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\msbuildforunity\\0.9.1-123842\\msbuildforunity.0.9.1-123842.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
